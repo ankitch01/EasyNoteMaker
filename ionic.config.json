@@ -1,0 +1,7 @@
+{
+  "name": "conference",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
